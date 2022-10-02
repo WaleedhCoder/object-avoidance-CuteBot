@@ -1,5 +1,6 @@
 {
     "name": "Object Avoidance",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
